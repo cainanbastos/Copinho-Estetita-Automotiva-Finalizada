@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://copinho-estetica-automotiva.cainanbastos468.chatgpt.site/sitemap.xml
